@@ -1,4 +1,4 @@
-# KetoCarbCount
+# Keto Net-Carb Count list 
 The Keto 'Net-Carb Count' document!
 
 This repo will serve as a revival of the 'Net-Carb Count' document that was on Reddit's [/r/Keto](https://old.reddit.com/r/keto) subreddit, previously hosted on Google Sheets.
