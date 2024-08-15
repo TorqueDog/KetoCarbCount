@@ -64,13 +64,13 @@ description: An freely available list of net carbohydrate counts for those looki
 |Onion|2 tablespoons, chopped|1.5|
 |Parsley (and all fresh herbs)|1 tablespoon|0.1|
 |Peppers, green bell|½ cup|2.1|
-|Peppers, red bell|½ cup2.9|
+|Peppers, red bell|½ cup|2.9|
 |Radicchio|½ cup|0.7|
 |Radishes|6|0.5|
 |Romaine lettuce|1 cup|0.4|
 |Scallion/green onion|¼ cup|1.2|
 |Spinach|1 cup|0.2|
-|Tomato|1 small (3–113g / 4oz)	2.5|
+|Tomato|1 small (3–113g / 4oz)|2.5|
 |Tomato|1 medium|3.3|
 |Tomato, cherry|5|2.2|
 |Watercress|½ cup|0|
