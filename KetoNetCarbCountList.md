@@ -28,7 +28,6 @@ description: An freely available list of net carbohydrate counts for those looki
 |Imitation Crab|1 oz|4.6|
 
 ## Salad Vegetables
-|Salad Vegetables|||
 |:---|:---|:---|
 |Vegetable|Serving Size|Grams of Net carbs|
 |Alfalfa sprouts|½ cup|0.2|
