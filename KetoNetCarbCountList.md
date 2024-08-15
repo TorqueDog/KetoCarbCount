@@ -9,7 +9,7 @@ description: An freely available list of net carbohydrate counts for those looki
 | [Meat and Offal](#meat-and-offal) | 
 | [Salad Vegetables](#salad-vegetables)|
 | [Cooked Vegetables](#cooked-vegetables)|
-| [Soy/Vegetarian](#soy-vegetarian)|
+| [Soy and Vegetarian](#soy-and-vegetarian)|
 | [Fuel and Exhaust](#fuel-and-exhaust)|
 | [Gearbox and Transmission](#gearbox-and-transmission)|
 | [Interior](#interior)|
@@ -133,7 +133,9 @@ description: An freely available list of net carbohydrate counts for those looki
 |Water chestnuts|¼ cup (canned)|3.5|
 |Zucchini|½ cup|1.5|
 
-## Soy/Vegetarian
+<br/>
+
+## Soy and Vegetarian
 
 |Product|Serving size|Grams of Net Carbs|
 |:---|:---|:---|
