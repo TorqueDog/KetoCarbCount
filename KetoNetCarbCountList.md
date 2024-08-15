@@ -9,7 +9,7 @@ description: An freely available list of net carbohydrate counts for those looki
 | [Meat and Offal](#meat-and-offal) | 
 | [Salad Vegetables](#salad-vegetables)|
 | [Cooked Vegetables](#cooked-vegetables)|
-| [Soy/Vegetarian](#soy/vegetarian)|
+| [Soy/Vegetarian](#soy-vegetarian)|
 | [Fuel and Exhaust](#fuel-and-exhaust)|
 | [Gearbox and Transmission](#gearbox-and-transmission)|
 | [Interior](#interior)|
