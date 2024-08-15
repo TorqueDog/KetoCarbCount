@@ -9,7 +9,7 @@ description: An freely available list of net carbohydrate counts for those looki
 | [Meat and Offal](#meat-and-offal) | 
 | [Salad Vegetables](#salad-vegetables)|
 | [Cooked Vegetables](#cooked-vegetables)|
-| [Engine](#engine)|
+| [Soy/Vegetarian](#soy/vegetarian)|
 | [Fuel and Exhaust](#fuel-and-exhaust)|
 | [Gearbox and Transmission](#gearbox-and-transmission)|
 | [Interior](#interior)|
@@ -79,9 +79,9 @@ description: An freely available list of net carbohydrate counts for those looki
 <br/>
 
 ## Cooked Vegetables
-|Cooked Vegetables|||
-|:---|:---|:---|
+
 |**Vegetable**|**Serving Size**|**Grams of Net carbs**|
+|:---|:---|:---|
 |Artichoke|½ medium|3.5|
 |Asparagus|6 spears|2.4|
 |Bamboo shoots, canned, sliced|½ cup|1.2|
@@ -133,3 +133,29 @@ description: An freely available list of net carbohydrate counts for those looki
 |Water chestnuts|¼ cup (canned)|3.5|
 |Zucchini|½ cup|1.5|
 
+## Soy/Vegetarian
+
+|Product|Serving size|Grams of Net Carbs|
+|:---|:---|:---|
+|Almond milk, unsweetened|1 cup|1|
+|Quorn burger|1 patty|4|
+|Quorn roast|113g / 4oz|4|
+|Quorn unbreaded cutlet|1 cutlet|3|
+|Seitan|1 piece|2|
+|Shirataki soy noodles|½ cup cooked|1|
+|Soy “cheese”|1 slice|1|
+|Soy “cheese”|28g / 1oz|2|
+|Soy milk, plain, unsweetened|1 cup|1.2|
+|Tempeh|½ cup|3.3|
+|Tofu, firm|113g / 4oz|2.5|
+|Tofu, silken, soft|113g / 4oz|3.1|
+|Tofu “bacon”|2 strips|2|
+|Tofu “Canadian bacon”|3 slices|1.5|
+|Tofu “hot dogs”|1 hot dog|2.0–5.0 (depending on brand)|
+|Tofu bulk “sausage”|57g / 2oz|2|
+|Tofu link “sausage”|2 links|4|
+|Vegan “cheese,” no casein|1 slice|5|
+|Vegan “cheese,” no casein|28g / 1oz|6|
+|Veggie burger|1 burger|2|
+|Veggie crumbles|¾ cup|2|
+|Veggie “meatballs”|4–5 balls|4|
